@@ -11,7 +11,7 @@
 #ifndef FBLUA_LUAUTILS_H_
 #define FBLUA_LUAUTILS_H_
 
-#include <lua.hpp>
+#include <lua5.2/lua.hpp>
 
 #include <boost/noncopyable.hpp>
 #include <folly/Optional.h>
