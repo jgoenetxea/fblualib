@@ -11,7 +11,7 @@
 #ifndef FBLUALIB_FUTURE_H_
 #define FBLUALIB_FUTURE_H_
 
-#include <lua.hpp>
+#include <lua5.2/lua.hpp>
 
 #include <fblualib/LuaUtils.h>
 #include <fblualib/Reactor.h>
