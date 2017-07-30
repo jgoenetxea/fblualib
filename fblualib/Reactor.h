@@ -16,7 +16,7 @@
 
 #pragma once
 
-#include <lua.hpp>
+#include <lua5.2/lua.hpp>
 #include <folly/Executor.h>
 
 namespace fblualib {
